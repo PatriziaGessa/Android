@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lehner Bio-Obsthof</string>
+    <string name="AboutUsText">Mitten im Weinviertel produzieren wir für Sie die fruchtigsten Marillen. \nDabei steht die Qualität immer im Mittelpunkt, das schmeckt man auch. 2018 haben wir auf BIO umgestellt und verkaufen ab 2021, nach der Umstellungsfase, BIO Marillen.</string>
+    <string name="office_obsthof_lehner_at">office@obsthof-lehner.at</string>
+    <string name="http_www_obsthof_lehner_at">http://www.obsthof-lehner.at/</string>
+    <string name="about_us">About us</string>
+    <string name="number">+43 2268 6252</string>
+    <string name="Address">Geitzendorf 17\n2002 Großmugl</string>
+</resources>
