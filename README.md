@@ -10,5 +10,5 @@ Designing and implementation a single screen app that displays information about
 - Business name
 - At least one photo representing the business
 - Contact information for business (eg phone number, email address, website)
-- Address of the business
+- Business address
 - Description of business
